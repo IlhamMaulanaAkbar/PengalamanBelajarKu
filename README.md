@@ -18,3 +18,8 @@ Belajar Dasar Git Dengan Github. (Progres 39%)
 * Membuat Repository Baru
 * Menambahkan Pengalaman Belajar
 * Menambahkan Kemmbali Progress belajar
+
+**17 Agustus 2023**  
+Belajar Dasar Git Dengan Github. (Progres 42%)
+* Mengubah Tampilan Menggunakan Format Markdown
+* Tantangan Menambahkan Progres Belajar
