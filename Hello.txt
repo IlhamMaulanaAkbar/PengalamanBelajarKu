@@ -1,1 +1,2 @@
 Mencoba membuat file baru dalam branch development
+Dan mencoba membuat merge conflict 
